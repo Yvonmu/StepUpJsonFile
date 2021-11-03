@@ -1,49 +1,22 @@
+
 {
   "products": [
        {
-          "id": "web-hosting",
-          "name": "Web Hosting",
-          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
+          "id": "ghost-whey-x-chips-ahoy",
+          "name": "Ghost Whey X Chips Ahoy",
+          "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
           "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
         },
-       {
-          "id": "ux-ui-design",
-          "name": "UX/UI Design",
-          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
+      {
+          "id": "ghost-whey-vegan",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
           "price": "$49.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80",
-        },
-       {
-          "id": "web-development",
-          "name": "Web Development",
-          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80",
-        },
-        {
-          "id": "mobile-development",
-          "name": "Mobile Development",
-          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80",
-        },
-        {
-          "id": "e-commerce",
-          "name": "E-Commerce",
-          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80",
-        },
-        {
-          "id": "company-branding",
-          "name": "Company Branding",
-          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80",
-        },
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+        }
   ],
   "profile": {
-    "name": "StepUpJsonFile"
+    "name": "StepUp"
   }
 }
