@@ -3,11 +3,11 @@
   "products": [
        {
           "id": "web-hosting",
-          "name": "Ghost Whey X Chips Ahoy",
-          "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
+          "name": "Web Hosting",
+          "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
           "price": "$39.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
-        },
+          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
+       },
       {
           "id": "ghost-whey-vegan",
           "name": "GHOST® Vegan Protein",
