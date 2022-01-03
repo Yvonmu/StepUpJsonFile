@@ -5,42 +5,42 @@
           "id": "web-hosting",
           "name": "Web Hosting",
           "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
+          "price": "$99.99",
           "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
        },
       {
           "id": "ux-ui-design",
           "name": "UX/UI Design",
           "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$49.99",
+          "price": "$309.00",
           "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
         },
     {
       "id": "web-development",
           "name": "Web Development",
           "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
+          "price": "$500.01",
+          "image": "https://unsplash.com/photos/pKRNxEguRgM"
     },
     {
           "id": "mobile-development",
           "name": "Mobile Development",
           "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
+          "price": "$400.00",
+          "image": "https://unsplash.com/photos/UTk9cXzYWAg"
     },
     {
-      "id": "e-commerce",
-          "name": "E-Commerce",
+      "id": "social-media-management",
+          "name": "Social Media Management",
           "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
-          "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
+          "price": "$89.99",
+          "image": "https://unsplash.com/photos/YkQwqz4-WuA"
     },
     {
-      "id": "company-branding",
-          "name": "Company Branding",
+      "id": "seo",
+          "name": "Search Engine Optimization",
           "details": "Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium dolore Totam rem aperiam with a long list of products and never ending customer support.",
-          "price": "$39.99",
+          "price": "$100.00",
           "image": "https://images.unsplash.com/photo-1634891392987-e91db6bf9557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
     }
   ],
